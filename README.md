@@ -178,8 +178,8 @@ See:
 ## 👨‍💻 Author
 
 **Maniarasan J**  
-MCA @ Christ University  
 Aspiring Data Engineer | Data Analyst | ML Enthusiast
+LinkedIn: https://www.linkedin.com/in/maniarasan-j-175780248/
 
 ---
 
