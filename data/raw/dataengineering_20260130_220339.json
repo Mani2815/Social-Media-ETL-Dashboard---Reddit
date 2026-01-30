@@ -1,0 +1,182 @@
+[
+    {
+        "caption": "With \"full stack\" coming to data, how should we adapt?",
+        "likes": 156,
+        "image_url": "https://i.redd.it/rhfuo2oygbgg1.png",
+        "timestamp": "2026-01-29T22:12:38",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Being the \"data guy\", need career advice",
+        "likes": 102,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqm5vk/being_the_data_guy_need_career_advice/",
+        "timestamp": "2026-01-30T03:17:36",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Got told \u2018No one uses Airflow/Hadoop in 2026\u2019.",
+        "likes": 90,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqsfmm/got_told_no_one_uses_airflowhadoop_in_2026/",
+        "timestamp": "2026-01-30T07:36:30",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Was asked by a client to build a Finance Cube in 1.5 months",
+        "likes": 53,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqm3io/was_asked_by_a_client_to_build_a_finance_cube_in/",
+        "timestamp": "2026-01-30T03:15:05",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Oops it's a Drakanian Product",
+        "likes": 26,
+        "image_url": "https://i.redd.it/v7l5msq2xcgg1.png",
+        "timestamp": "2026-01-30T03:05:12",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Alternate careers from IT/Data ??",
+        "likes": 21,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qr1ah1/alternate_careers_from_itdata/",
+        "timestamp": "2026-01-30T15:25:38",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Thoughts on Metadata driven ingestion",
+        "likes": 17,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqhdks/thoughts_on_metadata_driven_ingestion/",
+        "timestamp": "2026-01-30T00:21:49",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Data Engineer with Analytics Background (International Student) \u2013 What Should I Focus on in 2026?",
+        "likes": 16,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqvw49/data_engineer_with_analytics_background/",
+        "timestamp": "2026-01-30T10:16:25",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "DSRs are doable until you need to explain backups and logs",
+        "likes": 14,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqdpgu/dsrs_are_doable_until_you_need_to_explain_backups/",
+        "timestamp": "2026-01-29T22:12:52",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Are Databricks and Snowflake going to start \"verticalizing\"?",
+        "likes": 10,
+        "image_url": "https://www.prequel.co/blog/verticalization-of-the-data-warehouse",
+        "timestamp": "2026-01-29T23:46:39",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "discord channel for data engineers",
+        "likes": 8,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qr143d/discord_channel_for_data_engineers/",
+        "timestamp": "2026-01-30T15:15:02",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "How do you keep your sanity when building pipelines with incremental strategy + timezones?",
+        "likes": 6,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqyv6f/how_do_you_keep_your_sanity_when_building/",
+        "timestamp": "2026-01-30T12:57:24",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "We unified 5 query engines under one catalog and holy shit it actually worked",
+        "likes": 5,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqy67i/we_unified_5_query_engines_under_one_catalog_and/",
+        "timestamp": "2026-01-30T12:16:50",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "What's your personal approach to documenting workflows?",
+        "likes": 5,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqi4gz/whats_your_personal_approach_to_documenting/",
+        "timestamp": "2026-01-30T00:48:20",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Certified Data Management\nProfessionals",
+        "likes": 4,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qr6cml/certified_data_management_professionals/",
+        "timestamp": "2026-01-30T19:35:16",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Iceberg S3 migration to databricks/snowflake",
+        "likes": 4,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqzkp5/iceberg_s3_migration_to_databrickssnowflake/",
+        "timestamp": "2026-01-30T13:39:58",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Why not a open transformation standard",
+        "likes": 6,
+        "image_url": "https://github.com/open-semantic-interchange/OSI",
+        "timestamp": "2026-01-30T11:20:21",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Insights on breaking into DA/AE/DE in 2027/2028",
+        "likes": 6,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqfdx8/insights_on_breaking_into_daaede_in_20272028/",
+        "timestamp": "2026-01-29T23:12:19",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Fit check for my IoT data ingestion plan",
+        "likes": 3,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qr4dfn/fit_check_for_my_iot_data_ingestion_plan/",
+        "timestamp": "2026-01-30T18:10:42",
+        "hashtags": [
+            "dataengineering"
+        ]
+    },
+    {
+        "caption": "Preparing for new job",
+        "likes": 3,
+        "image_url": "https://www.reddit.com/r/dataengineering/comments/1qqjh1h/preparing_for_new_job/",
+        "timestamp": "2026-01-30T01:37:00",
+        "hashtags": [
+            "dataengineering"
+        ]
+    }
+]

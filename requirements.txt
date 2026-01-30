@@ -1,0 +1,9 @@
+instaloader
+requests
+pandas
+textblob
+sqlite-utils
+streamlit
+matplotlib
+beautifulsoup4
+lxml
